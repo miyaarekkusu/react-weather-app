@@ -18,3 +18,5 @@ isError: 失敗したかどうか
 など
 
 Tanstackをりようするため、まず、Tanstackをインストールし、main.tsxにQueryClientとQueryClientProviderの設定が必要。
+
+このプロジェクトではZODスキーマを使用
